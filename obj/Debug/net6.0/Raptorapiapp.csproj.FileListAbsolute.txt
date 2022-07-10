@@ -1,0 +1,15 @@
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\bin\Debug\net6.0\Raptorapiapp.exe
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\bin\Debug\net6.0\Raptorapiapp.deps.json
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\bin\Debug\net6.0\Raptorapiapp.runtimeconfig.json
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\bin\Debug\net6.0\Raptorapiapp.dll
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\bin\Debug\net6.0\Raptorapiapp.pdb
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\obj\Debug\net6.0\Raptorapiapp.csproj.AssemblyReference.cache
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\obj\Debug\net6.0\Raptorapiapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\obj\Debug\net6.0\Raptorapiapp.AssemblyInfoInputs.cache
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\obj\Debug\net6.0\Raptorapiapp.AssemblyInfo.cs
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\obj\Debug\net6.0\Raptorapiapp.csproj.CoreCompileInputs.cache
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\obj\Debug\net6.0\Raptorapiapp.dll
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\obj\Debug\net6.0\refint\Raptorapiapp.dll
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\obj\Debug\net6.0\Raptorapiapp.pdb
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\obj\Debug\net6.0\Raptorapiapp.genruntimeconfig.cache
+C:\Users\twilight\source\repos\Raptorapiapp\Raptorapiapp\obj\Debug\net6.0\ref\Raptorapiapp.dll
